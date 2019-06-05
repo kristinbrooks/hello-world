@@ -6,3 +6,5 @@ I don't yet know anything about programming, but I've been instructed by someone
 This is an edit I'm going to push to git.
 
 editing again...yay!
+
+Chad is up in Kristin's git.
